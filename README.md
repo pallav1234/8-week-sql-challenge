@@ -1,6 +1,20 @@
-# 🍜 Case Study #1: Danny's Diner 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/f5104559-d9de-4431-87f8-7ed282d807c8" /># 🍜 Case Study #1: Danny's Diner 
 
 <img src="https://github.com/pallav1234/8-week-sql-challenge/blob/main/Danny's%20Dinner%20Baner.png" alt="Image" width="500" height="520">
+
+ ## **Overview**
+
+Welcome to my hands-on SQL portfolio based on the [8-Week SQL Challenge](https://8weeksqlchallenge.com/) by Danny Ma.
+
+This project showcases my ability to solve real-world business problems using SQL — from data cleaning and transformation to extracting actionable insights. Each case study reflects my progression from quality assurance to data strategy, combining structured problem-solving with a business-first mindset.
+
+You'll find:
+- Clear SQL solutions to practical business questions
+- Data analysis using real-world scenarios
+- Strategic insights derived from raw datasets
+- Clean documentation and visual storytelling
+
+🔍 Whether you're a recruiter, data enthusiast, or fellow learner — I hope this portfolio gives you a glimpse into how I think, solve, and communicate with data.
 
 ## 📚 Table of Contents
 - [Business Task](#business-task)
