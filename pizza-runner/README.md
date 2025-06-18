@@ -1,6 +1,6 @@
 # 🍕 Case Study #2: Pizza Runner
 
-<img src="https://github.com/pallav1234/8-week-sql-challenge/blob/main/pizza-runner/pizza_runner_banner.jpg" alt="Pizza Runner Banner" width="100%">
+<img src="https://github.com/pallav1234/8-week-sql-challenge/blob/main/pizza_runner_banner.jpg" alt="Pizza Runner Banner" width="100%">
 
 ## **Overview**
 
