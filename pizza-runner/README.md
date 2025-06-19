@@ -34,6 +34,8 @@ Danny launched Pizza Runner to deliver fresh, handmade pizza to customers across
 ## Entity Relationship Diagram
 
 
+## Entity Relationship Diagram
+
 ![Pizza Runner ERD](https://8weeksqlchallenge.com/images/case-study-2-erd.png)
 
 You can also view the original ERD and schema on the official challenge page [here](https://8weeksqlchallenge.com/case-study-2/).
