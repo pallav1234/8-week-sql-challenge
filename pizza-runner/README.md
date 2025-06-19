@@ -41,10 +41,10 @@ Danny launched Pizza Runner to deliver fresh, handmade pizza to customers across
 
 This case is divided into multiple parts:
 
-- A. 🍕 Pizza Metrics
-- B. 🏃‍♂️ Runner and Customer Experience
-- C. 🧄 Ingredient Optimization
-- D. 💰 Pricing and Ratings
-- E. 🎯 Bonus Questions
+- [A. 🍕 Pizza Metrics](#a--pizza-metrics)
+- [B. 🏃‍♂️ Runner and Customer Experience](#b--runner-and-customer-experience)
+- [C. 🧄 Ingredient Optimization](#c--ingredient-optimization)
+- [D. 💰 Pricing and Ratings](#d--pricing-and-ratings)
+- [E. 🎯 Bonus Questions](#e--bonus-questions)
 
 ***
